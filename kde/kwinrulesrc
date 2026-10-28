@@ -1,0 +1,8 @@
+[General]
+Order=steam,argonaut-noborder
+
+[argonaut-noborder]
+Description=Argonaut: baslik cubugu yok (tum pencereler)
+decorationpolicy=none
+decorationpolicyrule=2
+wmclassmatch=0
